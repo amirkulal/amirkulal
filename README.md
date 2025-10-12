@@ -6,17 +6,17 @@
 
 ### Hi there 👋
 
-🜸 **System & Workflow**  
+ **🔂 System & Workflow**  
 - Daily driver: 🐧 **Arch Linux** + **Wayland**  
 - Text editors: ⚙️ **Neovim** & **Helix**, fine-tuned for precision  
 - Interface: Pure **CLI** & **TUI** — because control belongs to the keyboard  
 
-🜸 **Programming Focus**  
+ **🔁 Programming Focus**  
 - 💎 **Dart & Flutter** — building robust, elegant UIs  
 - 🌀 **Lua** — crafting Neovim plugins & automation tools  
 - ⚡ **Bash** — system scripting & environment customization  
 
-🜸 **What I Love**  
+ **🔀 What I Love**  
 - Creating terminal-based tools that *feel alive*  
 - Exploring the boundaries between **system engineering** and **developer experience**  
 - Building a cohesive, efficient workflow entirely inside the terminal  
