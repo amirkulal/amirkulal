@@ -24,7 +24,7 @@
 📂 *Open to collaboration on terminal tools, Neovim plugins, and cross-platform Flutter apps.*
 
 ---
-> 🖋️ _“Every keystroke is a philosophy of precision.”_
+> 🔭 _"Sometimes I can be too dramatic, sorry"_ 😄
 
 <!--
 **amirkulal/amirkulal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
